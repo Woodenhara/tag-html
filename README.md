@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 
 # TAG HTML
-## Apa itu Tag?
+<h2 align = "center"> Apa itu Tag? </h2>
 Tag adalah sebuah penanda awalan dan akhiran dari sebuah elemen di HTML. Tag dibuat dengan kurung siku (<...>), lalu di dalamnya berisi nama tag dan kadang juga ditambahkan dengan atribut.
 
 Contoh: 
@@ -121,5 +121,5 @@ Setiap tag memiliki fungsi masing-masing. Ada yang digunakan untuk membuat judul
 
 > Catatan: Tabel diatas hanya meliputi sebagian tag yang ada di HTML beserta fungsinya. Terdapat lebih banyak tag HTML lainnya dengan berbagai macam fungsi yang lebih spesifik.
 
-### Penutup
+<h2 align = "center"> Penutup </h2>
 Awalnya HTML hanya memiliki 18 tag dan sekarang HTML sudah punya sekitar 250 tag. Setiap tag memiliki peran penting dalam membangun struktur dan konten halaman web, saya mengulik sebagian materi teks dengan harapan semoga bisa dijadikan sebagai acuan untuk mengulik tag-tag html lainnya yang lebih mendetail cara bekerjanya sesuai dengan yang kalian butuhkan untuk membuat website kalian menjadi lebih menarik. 
